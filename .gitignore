@@ -1,0 +1,5 @@
+﻿# 檔案名稱 .gitignore
+
+# 忽略 config 目錄下的 檔案
+node_modules
+.vscode
